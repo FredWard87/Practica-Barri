@@ -1,0 +1,8 @@
+# Información Personal
+
+**Nombre:** Adrián López  
+**Hobbies:** Tocar la guitarra, leer ciencia ficción, practicar ciclismo.  
+**Contribución al proyecto:**  
+- Creé la estructura base del backend.  
+- Configuré la base de datos y realicé las conexiones con MongoDB.  
+- Implementé la autenticación de usuarios.
