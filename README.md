@@ -68,3 +68,10 @@ Este sistema está desarrollado para eliminar esos inconvenientes, promoviendo:
 
 ## 🏗️ Arquitectura del Sistema
 
+| Integrante        | Rol                         | Enlace al CV                                                                 |
+|-------------------|------------------------------|------------------------------------------------------------------------------|
+| **Fredy Esparza** | Líder de desarrollo frontend | [fredward87.github.io/CV-ONLINE](https://fredward87.github.io/CV-ONLINE/)   |
+| **Adrian Morales**| Lógica de backend y API      | *No disponible*                                                              |
+| **Alan Avalos**   | Autenticación y seguridad    | [aalan-aavalos.github.io/curriculum-vitae](https://aalan-aavalos.github.io/curriculum-vitae/) |
+| **Josue Ortiz**   | Base de datos y modelos      | [josuemiguelom.github.io/CV-Online](https://josuemiguelom.github.io/CV-Online/) |
+| **Citlali Limas** | Diseño de interfaz (UI/UX)   | *No disponible*                                                              |
